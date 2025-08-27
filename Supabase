@@ -4,3 +4,7 @@ supabase login
 supabase link --project-ref $fvhtinpfyucmdcaxeuat
 
 supabase db pull
+
+git add .
+git commit -m "init supabase"
+supabase start
