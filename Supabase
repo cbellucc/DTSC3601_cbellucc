@@ -1,1 +1,6 @@
+supabase init
 
+supabase login
+supabase link --project-ref $fvhtinpfyucmdcaxeuat
+
+supabase db pull
